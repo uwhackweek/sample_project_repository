@@ -66,3 +66,13 @@ What new approaches would you like to try to implement to address your specific 
 
 Optional: links to manuscripts or technical documents providing background information, context, or other relevant information.
 
+### Tasks
+
+What are the individual tasks or steps that need to be taken to achieve the project goals? Think about which tasks are dependent on prior tasks, or which tasks can be performed in parallel. This can help divide up project work among team members.
+
+* Task 1 (all team members)
+* Task 2
+  * Task 2a (assigned to team member A)
+  * Task 2b (assigned to team member B)
+* Task 3
+* ...
