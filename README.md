@@ -31,13 +31,17 @@ Brief introduction describing the proposed work.
 
 ### Collaborators
 
-List all participants on the project.
+List all participants on the project. Here is a good space to share your personal goals for the hackweek, things you can help with.
 
-* Project lead
-* Team member
-* Team member
-* Team member
-* ...
+| Name | Personal goals | Can help with | Role |
+| ------------- | ------------- | ------------- | ------------- |
+| Katherine J. | I want to learn specific python libraries for working with these data  | I can help with understanding our dataset, programming in R  | Project Lead |
+| Rosalind F. | Practice leading a software project | machine learning and python (scipy, scikit-learn) | Project Lead |
+| Alan T. | learning about your dataset | GitHub, Jupyter, cloud computing | Project Helper |
+| Rachel C. | learn to use github, resolve merge conflicts | I am familiar with our dataset |  |
+| ... | ... | ... | ... |
+| ... | ... | ... | ... |
+
 
 ### The problem
 
