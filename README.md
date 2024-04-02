@@ -1,28 +1,23 @@
 # Sample Project
 
-This is as an example on how teams can structure their project repositories and format their project README.md file. Thanks to Lindsey Heagey and Joachim Meyer for the template!
+This is an example of how teams can structure their project repositories and format their project README.md file.
 
-## Files
+## Files and folders in your project repository
 
+This template provides the following suggested organizaiton structure for the project repository, but each project team is free to organize their repository as they see fit.
+
+* **`contributors/`**
+<br> Each team member can create their own folder under contributors, within which they can work on their own scripts, notebooks, and other files. Having a dedicated folder for each person helps to prevent conflicts when merging with the main branch. This is a good place for team members to start off exploring data and methods for the project.
+* **`notebooks/`**
+<br> Notebooks that are considered delivered results for the project should go in here.
+* **`scripts/`**
+<br> Helper utilities that are shared with the team should go in here.
 * `.gitignore`
-<br> Globally ignored files by `git` for the project.
+<br> This file sets the files that will be globally ignored by `git` for the project. (e.g. you may want git to ignore temporary files or large data files)
 * `environment.yml`
 <br> `conda` environment description needed to run this project.
 * `README.md`
 <br> Description of the project (see suggested headings below)
-
-## Folders
-
-This template provides the following folders and suggested organizaiton structure for the project repository, but each project team is free to organize their repository as they see fit.
-
-### `contributors`
-Each team member can create their own folder under contributors, within which they can work on their own scripts, notebooks, and other files. Having a dedicated folder for each person helps to prevent conflicts when merging with the main branch. This is a good place for team members to start off exploring data and methods for the project.
-
-### `notebooks`
-Notebooks that are considered delivered results for the project should go in here.
-
-### `scripts`
-Helper utilities that are shared with the team should go in here.
 
 # Recommended content for your README.md file:
 
