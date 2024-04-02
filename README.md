@@ -21,11 +21,15 @@ This template provides the following suggested organizaiton structure for the pr
 
 # Recommended content for your README.md file:
 
+(you can remove the content above here for your final project README.md file and start with the Project or Team Name below)
+
+# Project or Team Name
+
 ## Project Summary
 
-### Project Title
+### Project Title and Introduction
 
-Brief title describing the proposed work.
+Brief introduction describing the proposed work.
 
 ### Collaborators
 
