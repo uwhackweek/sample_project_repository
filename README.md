@@ -21,13 +21,11 @@ This template provides the following suggested organizaiton structure for the pr
 
 # Recommended content for your README.md file:
 
-(you can remove the content above here for your final project README.md file and start with the Project or Team Name below)
+(you can remove the content here and above from your final project README.md file so that it begins with the Project or Team Name title below)
 
 # Project or Team Name
 
-## Project Summary
-
-### Project Title and Introduction
+## Project Title and Introduction
 
 Brief introduction describing the proposed work.
 
@@ -75,3 +73,9 @@ What are the individual tasks or steps that need to be taken to achieve the proj
   * Task 2b (assigned to team member B)
 * Task 3
 * ...
+
+## Project Results
+
+Use this section to briefly summarize your project results. These could take the form of describing the progress your team made to answering a research question, developing a tool or tutorial, interesting things found in exploring a new dataset, lessons learned for applying a new method, personal accomplishments of each team member, or anything else the team wants to share.
+
+You could include figures or images here, links to notebooks or code elsewhere in the repository (such as in the [notebooks](notebooks/) folder), and information on how others can run your notebooks or code.
