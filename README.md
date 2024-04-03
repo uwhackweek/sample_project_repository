@@ -58,6 +58,8 @@ How would you or others traditionally try to address this problem?
 
 What new approaches would you like to try to implement to address your specific question(s) or application(s)?
 
+Will your project use machine learning methods? We invite you to try creating a [model card](model-card.md)!
+
 ### Specific questions / project goals
 
 List the specific tasks you want to accomplish, project goals, or research questions you want to answer. Think about what outcomes or deliverables you'd like to create (e.g. a series of tutorial notebooks demonstrating how to work with a dataset, results of an anaysis to answer a science question, an example of applying a new analysis method, or a new python package).
