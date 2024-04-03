@@ -27,7 +27,7 @@ This template provides the following suggested organizaiton structure for the pr
 
 ## Project Title and Introduction
 
-Brief introduction describing the proposed work.
+Brief introduction describing the proposed work. What skills will team members get to learn and practice as part of this project?
 
 ### Collaborators
 
@@ -42,18 +42,16 @@ List all participants on the project. Here is a good space to share your persona
 | ... | ... | ... | ... |
 | ... | ... | ... | ... |
 
-
 ### The problem
 
 What problem are you going to explore? Provide a few sentences. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context and specific applications of this work. To get some ideas, see example use cases on the GeoSMART website [here](https://geo-smart.github.io/usecases).
 
-### Specific questions / project goals
-
-List the specific tasks you want to accomplish, project goals, or research questions you want to answer. Think about what outcomes or deliverables you'd like to create (e.g. a series of tutorial notebooks demonstrating a [use case](https://geo-smart.github.io/usecases#Contributing), or a new python package).
-
 ### Data
 
 Briefly describe the data that will be used here (size, format, how to access).
+
+* (Dataset 1)[#]
+* (Dataset 2)[#]
 
 ### Existing methods
 
@@ -63,9 +61,9 @@ How would you or others traditionally try to address this problem?
 
 What new approaches would you like to try to implement to address your specific question(s) or application(s)?
 
-### Additional resources or background reading
+### Specific questions / project goals
 
-Optional: links to manuscripts or technical documents providing background information, context, or other relevant information.
+List the specific tasks you want to accomplish, project goals, or research questions you want to answer. Think about what outcomes or deliverables you'd like to create (e.g. a series of tutorial notebooks demonstrating how to work with a dataset, results of an anaysis to answer a science question, an example of applying a new analysis method, or a new python package).
 
 ### Tasks
 
@@ -77,6 +75,10 @@ What are the individual tasks or steps that need to be taken to achieve the proj
   * Task 2b (assigned to team member B)
 * Task 3
 * ...
+
+### Additional resources or background reading
+
+Optional: links to manuscripts or technical documents providing background information, context, or other relevant information.
 
 ## Project Results
 
