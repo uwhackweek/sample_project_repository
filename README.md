@@ -27,7 +27,7 @@ This template provides the following suggested organizaiton structure for the pr
 
 ## Project Title and Introduction
 
-Brief introduction describing the proposed work. What skills will team members get to learn and practice as part of this project?
+Brief introduction describing the proposed work. Be sure to also decribe what skills will team members get to learn and practice as part of this project?
 
 ### Collaborators
 
