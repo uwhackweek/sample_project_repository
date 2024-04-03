@@ -50,9 +50,6 @@ What problem are you going to explore? Provide a few sentences. If this is a tec
 
 Briefly describe the data that will be used here (size, format, how to access).
 
-* (Dataset 1)[#]
-* (Dataset 2)[#]
-
 ### Existing methods
 
 How would you or others traditionally try to address this problem?
