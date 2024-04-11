@@ -20,8 +20,6 @@ This template provides the following suggested organizaiton structure for the pr
 <br> Description of the project (see suggested headings below)
 * `model-card.md`
 <br> Description (following a metadata standard) of any machine learning models used in the project
-* `project-checklist.md`
-<br> Checklist of suggested daily activities to help project leaders organize the project team
 
 # Recommended content for your README.md file:
 
