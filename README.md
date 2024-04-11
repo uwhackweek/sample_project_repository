@@ -2,6 +2,9 @@
 
 This is an example of how teams can structure their project repositories and format their project README.md file.
 
+When creating a project repository from this template, we recommend choosing "Public" (so other participants can follow progress). You can also select Private initially and make Public before final presentation. We also recommend adding a "topic" to your repository details (click on the gear icon next to the "About" section on the repository page) to help others find your work (e.g. `uw-hackweek-snowex2024`).
+
+
 ## Files and folders in your project repository
 
 This template provides the following suggested organizaiton structure for the project repository, but each project team is free to organize their repository as they see fit.
