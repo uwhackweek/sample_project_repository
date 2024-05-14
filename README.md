@@ -14,9 +14,9 @@ This template provides the following suggested organizaiton structure for the pr
 * **`notebooks/`**
 <br> Notebooks that are considered delivered results for the project should go in here.
 * **`scripts/`**
-<br> Helper utilities that are shared with the team should go in here.
+<br> Code and scripts that are shared by the team should go in here.
 * `.gitignore`
-<br> This file sets the files that will be globally ignored by `git` for the project. (e.g. you may want git to ignore temporary files or large data files)
+<br> This file sets the files that will be globally ignored by `git` for the project. (e.g. you may want git to ignore temporary files or large data files, [read more about ignoring files here](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files))
 * `environment.yml`
 <br> `conda` environment description needed to run this project.
 * `README.md`
